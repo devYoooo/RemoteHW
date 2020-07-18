@@ -3,6 +3,7 @@ Various functions supported by one device<br>
 
 This program allows you to remotely control your computer<br>
 
+
 ScreenShot
 --------------------------
 
@@ -22,10 +23,12 @@ The L/R button in PPT mode is the left/right arrow keys on the keyboard.<br><br>
 ![안드로이드락모드](https://user-images.githubusercontent.com/58925978/87854481-52f9f880-c94d-11ea-9bd5-a93e844fa1cc.png)<br>
 When the top Lock button is pressed, the top icon disappears so that the screen can be used widely, and an unwanted button can be accidentally pressed.<br><br>
 
-When you tap the speaker icon on the top, you can listen to the sound of your PC with your smartphone.<br>
+When you tap the speaker icon on the top, you can listen to the sound of your PC with your smartphone.<br><br>
+
+
+
+MANUAL
 --------------------------
-
-
 
 [ Develope Enviroment ]<br>
 OS : Windows10 / Language : Java / Compiler : PC-Eclipse, Phone-Android Studio <br>
