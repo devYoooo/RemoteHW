@@ -3,16 +3,16 @@ Various functions supported by one device<br>
 
 ScreenShot
 --------------------------
-<div>
-![자바어플](https://user-images.githubusercontent.com/58925978/87854461-27770e00-c94d-11ea-869b-82f38f0eb09d.png)
-</div>
-![안드로이드메인](https://user-images.githubusercontent.com/58925978/87854468-365dc080-c94d-11ea-9061-7f78684d92c3.png)
-<div>
-![안드로이드마우스](https://user-images.githubusercontent.com/58925978/87854476-41b0ec00-c94d-11ea-96ed-1411db8dd418.png)
-</div>
-![안드로이드PPT](https://user-images.githubusercontent.com/58925978/87854478-4bd2ea80-c94d-11ea-9675-51366322a7fd.png)
 
-![안드로이드락모드](https://user-images.githubusercontent.com/58925978/87854481-52f9f880-c94d-11ea-9bd5-a93e844fa1cc.png)
+![자바어플](https://user-images.githubusercontent.com/58925978/87854461-27770e00-c94d-11ea-869b-82f38f0eb09d.png)<br>
+
+![안드로이드메인](https://user-images.githubusercontent.com/58925978/87854468-365dc080-c94d-11ea-9061-7f78684d92c3.png)<br>
+
+![안드로이드마우스](https://user-images.githubusercontent.com/58925978/87854476-41b0ec00-c94d-11ea-96ed-1411db8dd418.png)<br>
+
+![안드로이드PPT](https://user-images.githubusercontent.com/58925978/87854478-4bd2ea80-c94d-11ea-9675-51366322a7fd.png)<br>
+
+![안드로이드락모드](https://user-images.githubusercontent.com/58925978/87854481-52f9f880-c94d-11ea-9bd5-a93e844fa1cc.png)<br>
 
 --------------------------
 
