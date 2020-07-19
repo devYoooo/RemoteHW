@@ -27,21 +27,22 @@ When you tap the speaker icon on the top, you can listen to the sound of your PC
 
 
 
-MANUAL
---------------------------
-
-[ Develope Enviroment ]<br>
+[ Enviroment ]
+------------------------------
 OS : Windows10 / Language : Java / Compiler : PC-Eclipse, Phone-Android Studio <br>
 
-[ Develope Time ]<br>
-2019.03 - 2019.11 (8 month)<br>
+[ Period ]
+-------------------------------
+March/2019 - November/2019<br>
 
-[ Implementation technology ]<br>
+[ Implementation technology ]
+-------------------------------
 1. Controls mouse and keyboard using JAVA Robot API<br>
 2. Capture sound from PC using JAVA Sound API<br>
 3. Play sound from PC using Android Media API
 
-[ Implementation features ]<br>
+[ Implementation features ]
+-------------------------------
 After running the program on the PC, enter the IP from the PC program on the main screen of the smartphone application to access it.<br>
 If connected properly, the mouse on the PC moves when you touch the empty space in the center on the smartphone.<br>
 The default mode is mouse mode, and when you click the PPT button at the top, it changes to PPT mode.<br>
