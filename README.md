@@ -1,4 +1,6 @@
 # RemoteHW
+-------------------------------------------------------------------
+-------------------------------------------------------------------
 Various functions supported by one device<br>
 
 This program allows you to remotely control your computer<br>
@@ -26,20 +28,28 @@ When the top Lock button is pressed, the top icon disappears so that the screen 
 When you tap the speaker icon on the top, you can listen to the sound of your PC with your smartphone.<br><br><br><br>
 
 
-
+[ Maintainer ]
+------------------------------
+<ul>
+  <li>유의상</li>
+  <li>최우중</li>
+  <li>노원호</li>
+  <li>박인환</li>
+</ul>
+<br>
 [ Enviroment ]
 ------------------------------
-OS : Windows10 / Language : Java / Compiler : PC-Eclipse, Phone-Android Studio <br>
+OS : Windows10 / Language : Java / Compiler : PC-Eclipse, Phone-Android Studio <br><br>
 
 [ Period ]
 -------------------------------
-March/2019 - November/2019<br>
+March/2019 - November/2019<br><br>
 
 [ Implementation technology ]
 -------------------------------
 1. Controls mouse and keyboard using JAVA Robot API<br>
 2. Capture sound from PC using JAVA Sound API<br>
-3. Play sound from PC using Android Media API
+3. Play sound from PC using Android Media API<br><br>
 
 [ Implementation features ]
 -------------------------------
