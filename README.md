@@ -1,4 +1,4 @@
-<p text-align:center>RemoteHW</p>
+<h1 text-align:center>RemoteHW</h1>
 -------------------------------------------------------------------
 -------------------------------------------------------------------
 Various functions supported by one device<br>
