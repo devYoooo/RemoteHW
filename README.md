@@ -1,6 +1,5 @@
 <h1 text-align:center>RemoteHW</h1>
--------------------------------------------------------------------
--------------------------------------------------------------------
+------------------------------------------------------
 Various functions supported by one device<br>
 
 This program allows you to remotely control your computer<br>
