@@ -10,25 +10,28 @@ Various functions supported by one device<br>
 ScreenShot
 --------------------------
 
-![자바어플](https://user-images.githubusercontent.com/58925978/87854461-27770e00-c94d-11ea-869b-82f38f0eb09d.png)<br>
+![자바어플](https://user-images.githubusercontent.com/58925978/87854461-27770e00-c94d-11ea-869b-82f38f0eb09d.png)<br><br>
+<p>
+  <font size=3><b>
 PC에서 프로그램을 실행 한 후 해당 컴퓨터의 IP주소를 확인한 후, 스마트폰 앱의 메인화면에 있는 빈칸에 IP를 입력하여 접속<br>
 After running the program on the PC, enter the IP from the PC program on the main screen of the smartphone application to access it.<br><br><br><br><br>
-
-![안드로이드메인](https://user-images.githubusercontent.com/58925978/87854468-365dc080-c94d-11ea-9061-7f78684d92c3.png)<br>
+  </b></font>
+</p>
+![안드로이드메인](https://user-images.githubusercontent.com/58925978/87854468-365dc080-c94d-11ea-9061-7f78684d92c3.png)<br><br>
 올바르게 연결되면 스마트 폰 중앙의 빈 공간을 터치하면 PC의 마우스가 움직입니다.<br>
 기본 모드는 마우스 모드이며 상단의 PPT 버튼을 클릭하면 PPT 모드로 변경됩니다.<br>
 If connected properly, the mouse on the PC moves when you touch the empty space in the center on the smartphone.<br>
 The default mode is mouse mode, and when you click the PPT button at the top, it changes to PPT mode.<br><br><br><br><br>
 
-![안드로이드마우스](https://user-images.githubusercontent.com/58925978/87854476-41b0ec00-c94d-11ea-96ed-1411db8dd418.png)<br>
+![안드로이드마우스](https://user-images.githubusercontent.com/58925978/87854476-41b0ec00-c94d-11ea-96ed-1411db8dd418.png)<br><br>
 마우스 모드에서 L / R 버튼은 마우스 왼쪽 클릭, 오른쪽 클릭 버튼, 위쪽 / 아래쪽 버튼은 마우스의 휠 버튼입니다.<br>
 In mouse mode, the L/R button is the left click of the mouse, the right click button, and the Up/Down button is the wheel button of the mouse.<br><br><br><br><br>
 
-![안드로이드PPT](https://user-images.githubusercontent.com/58925978/87854478-4bd2ea80-c94d-11ea-9675-51366322a7fd.png)<br>
+![안드로이드PPT](https://user-images.githubusercontent.com/58925978/87854478-4bd2ea80-c94d-11ea-9675-51366322a7fd.png)<br><br>
 PPT 모드의 L / R 버튼은 키보드의 왼쪽 / 오른쪽 화살표 키입니다.<br>
 The L/R button in PPT mode is the left/right arrow keys on the keyboard.<br><br><br><br><br>
 
-![안드로이드락모드](https://user-images.githubusercontent.com/58925978/87854481-52f9f880-c94d-11ea-9bd5-a93e844fa1cc.png)<br>
+![안드로이드락모드](https://user-images.githubusercontent.com/58925978/87854481-52f9f880-c94d-11ea-9bd5-a93e844fa1cc.png)<br><br>
 상단 잠금 버튼을 누르면 상단 아이콘이 사라져 화면을 광범위하게 사용할 수 있으며 원하지 않는 버튼을 실수로 누를 수 있습니다.<br>
 When the top Lock button is pressed, the top icon disappears so that the screen can be used widely, and an unwanted button can be accidentally pressed.<br><br>
 
