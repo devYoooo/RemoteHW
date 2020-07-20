@@ -1,9 +1,9 @@
 <h1 text-align:center>RemoteHW</h1><br>
 
 이 프로그램을 사용하면 컴퓨터를 원격으로 제어 할 수 있습니다<br>
-하나의 모바일 장치에서 다양한 기능을 지원합니다<br>
+하나의 모바일 장치에서 다양한 기능을 지원합니다<br><br>
 This program allows you to remotely control your computer<br>
-Various functions supported by one device<br>
+Various functions supported by one device<br><br>
 
 
 
