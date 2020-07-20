@@ -1,14 +1,16 @@
 <h1 text-align:center>RemoteHW</h1><br>
 
-Various functions supported by one device<br>
-
 This program allows you to remotely control your computer<br>
+이 프로그램을 사용하면 컴퓨터를 원격으로 제어 할 수 있습니다<br>
+Various functions supported by one device<br>
+하나의 장치에서 지원되는 다양한 기능<br>
 
 
 ScreenShot
 --------------------------
 
 ![자바어플](https://user-images.githubusercontent.com/58925978/87854461-27770e00-c94d-11ea-869b-82f38f0eb09d.png)<br>
+PC에서 프로그램을 실행 한 후 해당 컴퓨터의 IP주소를 확인한 후, 스마트폰 앱의 메인화면에 있는 빈칸에 IP를 입력하여 접속<br>
 After running the program on the PC, enter the IP from the PC program on the main screen of the smartphone application to access it.<br><br><br><br><br>
 
 ![안드로이드메인](https://user-images.githubusercontent.com/58925978/87854468-365dc080-c94d-11ea-9061-7f78684d92c3.png)<br>
