@@ -16,12 +16,17 @@ ScreenShot
 PC에서 프로그램을 실행 한 후 해당 컴퓨터의 IP주소를 확인한 후, 스마트폰 앱의 메인화면에 있는 빈칸에 IP를 입력하여 접속<br>
 After running the program on the PC, enter the IP from the PC program on the main screen of the smartphone application to access it.<br><br><br><br><br>
   </b></font>
-</p>
+</p><br>
+
 ![안드로이드메인](https://user-images.githubusercontent.com/58925978/87854468-365dc080-c94d-11ea-9061-7f78684d92c3.png)<br><br>
+<p>
+  <font size=3><b>
 올바르게 연결되면 스마트 폰 중앙의 빈 공간을 터치하면 PC의 마우스가 움직입니다.<br>
 기본 모드는 마우스 모드이며 상단의 PPT 버튼을 클릭하면 PPT 모드로 변경됩니다.<br>
 If connected properly, the mouse on the PC moves when you touch the empty space in the center on the smartphone.<br>
 The default mode is mouse mode, and when you click the PPT button at the top, it changes to PPT mode.<br><br><br><br><br>
+</b></font>
+</p><br>
 
 ![안드로이드마우스](https://user-images.githubusercontent.com/58925978/87854476-41b0ec00-c94d-11ea-96ed-1411db8dd418.png)<br><br>
 마우스 모드에서 L / R 버튼은 마우스 왼쪽 클릭, 오른쪽 클릭 버튼, 위쪽 / 아래쪽 버튼은 마우스의 휠 버튼입니다.<br>
