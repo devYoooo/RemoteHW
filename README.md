@@ -81,7 +81,7 @@ March/2019 - November/2019<br><br>
 -------------------------------
 JAVA Robot API를 사용하여 마우스 및 키보드를 제어합니다.<br>
 JAVA Sound API을 사용하여 PC의 소리를 캡쳐합니다.<br>
-Android Media API를 사용하여 PC의 소리를 재생합니다.<br>
+Android Media API를 사용하여 PC의 소리를 재생합니다.<br><br>
 Controls mouse and keyboard using JAVA Robot API<br>
 Capture sound from PC using JAVA Sound API<br>
 Play sound from PC using Android Media API<br><br>
@@ -95,8 +95,7 @@ PC에서 프로그램을 실행 후 스마트폰 어플의 메인화면에서 PC
 PPT모드에서의 L/R버튼은 키보드의 왼쪽/오른쪽방향키 입니다.<br>
 상단의 스피커아이콘을 누를 시 PC의 소리를 스마트폰으로 들을 수 있습니다.<br>
 상단의 Lock버튼을 누를 시 화면을 넓게 쓸 수 있도록 상단아이콘이 사라지고,<br>
-원치않는 버튼이 실수로 눌리는 상황을 방지할 수 있습니다.<br>
-
+원치않는 버튼이 실수로 눌리는 상황을 방지할 수 있습니다.<br><br>
 After running the program on the PC, enter the IP from the PC program on the main screen of the smartphone application to access it.<br>
 If connected properly, the mouse on the PC moves when you touch the empty space in the center on the smartphone.<br>
 The default mode is mouse mode, and when you click the PPT button at the top, it changes to PPT mode.<br>
