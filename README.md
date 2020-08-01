@@ -1,4 +1,4 @@
-<h1 text-align:center>RemoteHW</h1><br>
+<h1 text-align:center>Description</h1><br>
 
 이 프로그램을 사용하면 컴퓨터를 원격으로 제어 할 수 있습니다<br>
 하나의 모바일 장치에서 다양한 기능을 지원합니다<br><br>
@@ -59,7 +59,7 @@ Finally, When you tap the speaker icon on the top, you can listen to the sound o
 </b></font>
 </p><br>
 
-[ Maintainer ]
+Maintainer
 ------------------------------
 <ul>
   <li>유의상</li>
@@ -69,15 +69,15 @@ Finally, When you tap the speaker icon on the top, you can listen to the sound o
 </ul>
 <br>
 
-[ Enviroment ]
+Enviroment
 ------------------------------
 OS : Windows10 / Language : Java / Compiler : PC-Eclipse, Phone-Android Studio <br><br>
 
-[ Period ]
+Period
 -------------------------------
 March/2019 - November/2019<br><br>
 
-[ Implementation technology ]
+Implementation technology
 -------------------------------
 JAVA Robot API를 사용하여 마우스 및 키보드를 제어합니다.<br>
 JAVA Sound API을 사용하여 PC의 소리를 캡쳐합니다.<br>
@@ -86,7 +86,7 @@ Controls mouse and keyboard using JAVA Robot API<br>
 Capture sound from PC using JAVA Sound API<br>
 Play sound from PC using Android Media API<br><br>
 
-[ Implementation features ]
+Implementation features
 -------------------------------
 PC에서 프로그램을 실행 후 스마트폰 어플의 메인화면에서 PC프로그램에 나온 IP를 입력해 접속합니다.<br>
 제대로 연결되었다면 스마트폰에서 중앙의 빈공간을 터치시 PC의 마우스가 움직입니다.<br>
