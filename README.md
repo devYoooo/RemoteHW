@@ -40,40 +40,29 @@
 <hr><br>
 
 ![안드로이드메인](https://user-images.githubusercontent.com/58925978/87854468-365dc080-c94d-11ea-9061-7f78684d92c3.png)<br><br>
-<p>
-  <font size=3><b>
-올바르게 연결되면 스마트 폰 중앙의 빈 공간을 터치하면 PC의 마우스가 움직입니다.<br>
-기본 모드는 마우스 모드이며 상단의 PPT 버튼을 클릭하면 PPT 모드로 변경됩니다.<br><br>
-</b></font>
+
+* 올바르게 연결되면 스마트 폰 중앙의 빈 공간을 터치하면 PC의 마우스가 움직입니다.<br>기본 모드는 마우스 모드이며 상단의 PPT 버튼을 클릭하면 PPT 모드로 변경됩니다.<br><br>
 </p><hr><br>
 
 ![안드로이드마우스](https://user-images.githubusercontent.com/58925978/87854476-41b0ec00-c94d-11ea-96ed-1411db8dd418.png)<br><br>
-<p>
-  <font size=3><b>
-마우스 모드에서 L / R 버튼은 마우스 왼쪽 클릭, 오른쪽 클릭 버튼, 위쪽 / 아래쪽 버튼은 마우스의 휠 버튼입니다.<br><br>
-</b></font>
-</p><hr><br>
+
+* 마우스 모드에서 L / R 버튼은 마우스 왼쪽 클릭, 오른쪽 클릭 버튼, 위쪽 / 아래쪽 버튼은 마우스의 휠 버튼입니다.<br><br>
+<hr><br>
 
 ![안드로이드PPT](https://user-images.githubusercontent.com/58925978/87854478-4bd2ea80-c94d-11ea-9675-51366322a7fd.png)<br><br>
-<p>
-  <font size=3><b>
-PPT 모드의 L / R 버튼은 키보드의 왼쪽 / 오른쪽 화살표 키입니다.<br><br>
-</b></font>
-</p><hr><br>
+
+* PPT 모드의 L / R 버튼은 키보드의 왼쪽 / 오른쪽 화살표 키입니다.<br><br>
+<hr><br>
 
 ![안드로이드락모드](https://user-images.githubusercontent.com/58925978/87854481-52f9f880-c94d-11ea-9bd5-a93e844fa1cc.png)<br><br>
-<p>
-  <font size=3><b>
-상단 잠금 버튼을 누르면 상단 아이콘이 사라져 화면을 광범위하게 사용할 수 있으며 원하지 않는 버튼을 실수로 누를 수 있습니다.<br><br>
-</b></font>
-</p><hr><br>
+
+* 상단 잠금 버튼을 누르면 상단 아이콘이 사라져 화면을 광범위하게 사용할 수 있으며 원하지 않는 버튼을 실수로 누를 수 있습니다.<br><br>
+<hr><br>
 
 ![안드로이드PPT](https://user-images.githubusercontent.com/58925978/87854478-4bd2ea80-c94d-11ea-9675-51366322a7fd.png)<br><br>
-<p>
-  <font size=3><b>
-마지막으로 상단의 스피커 아이콘을 누르면 스마트 폰으로 PC의 소리를들을 수 있습니다.<br><br>
-</b></font>
-</p><hr><br><br>
+
+* 마지막으로 상단의 스피커 아이콘을 누르면 스마트 폰으로 PC의 소리를들을 수 있습니다.<br><br>
+<hr><br><br>
 
 
 
