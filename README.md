@@ -16,6 +16,22 @@
 * 개발 Tool : Eclipse, SVN, Apache Tomcat v8.0, VisualSVN Server Manager
 <br>
 
+### 팀
+<ul>
+  <li>최우중</li>
+  <li>노원호</li>
+  <li>유의상</li>
+  <li>박인환</li>
+</ul>
+<br>
+
+
+### 개발기간
+March/2019 - July/2019<br><br>
+
+### 
+OS : Windows10 / Language : Java / Compiler : PC-Eclipse, Phone-Android Studio <br><br>
+
 <hr>
 
 ### 시연 이미지
@@ -62,23 +78,8 @@ PPT 모드의 L / R 버튼은 키보드의 왼쪽 / 오른쪽 화살표 키입�
   <font size=3><b>
 마지막으로 상단의 스피커 아이콘을 누르면 스마트 폰으로 PC의 소리를들을 수 있습니다.<br><br>
 </b></font>
-</p><hr><br>
+</p><hr><br><br>
 
-<hr>
-### Maintainer
-<ul>
-  <li>최우중</li>
-  <li>노원호</li>
-  <li>유의상</li>
-  <li>박인환</li>
-</ul>
-<br>
-
-### Period
-March/2019 - November/2019<br><br>
-
-### Enviroment
-OS : Windows10 / Language : Java / Compiler : PC-Eclipse, Phone-Android Studio <br><br>
 
 
 
