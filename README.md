@@ -1,6 +1,6 @@
 <h2 align="center">RemoteH/W</h2>
 <p align="center">
-  🙍‍♂️  <strong>안드로이드 앱/strong>   🙍‍♀️
+  🙍‍♂️  <strong>안드로이드 앱</strong>   🙍‍♀️
 </p>
 
 ### 개요
