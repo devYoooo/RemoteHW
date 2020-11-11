@@ -19,8 +19,6 @@
 
 ### 시연 이미지
 
-ScreenShot
---------------------------
 
 ![자바어플](https://user-images.githubusercontent.com/58925978/87854461-27770e00-c94d-11ea-869b-82f38f0eb09d.png)<br><br>
 <p>
