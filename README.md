@@ -15,8 +15,9 @@
 * 개발 Tool : Eclipse, SVN, Apache Tomcat v8.0, VisualSVN Server Manager
 <br>
 
+<hr>
 ### 시연 이미지
-
+<br>
 ScreenShot
 --------------------------
 
