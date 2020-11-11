@@ -1,11 +1,21 @@
-<h1 text-align:center>Description</h1><br>
+<h2 align="center">RemoteH/W</h2>
+<p align="center">
+  🙍‍♂️  <strong>안드로이드 앱/strong>   🙍‍♀️
+</p>
 
-이 프로그램을 사용하면 컴퓨터를 원격으로 제어 할 수 있습니다<br>
-하나의 모바일 장치에서 다양한 기능을 지원합니다<br><br>
-This program allows you to remotely control your computer<br>
-Various functions supported by one device<br><br>
+### 개요
+* 하나의 모바일 기기에서 컴퓨터에 원격 터치패드(마우스), 리모콘(PPT발표용), 무선스피커 기능까지 다양한 기능을 이용할 수 있도록 개발
+  
+### 주요 기술
+* 참여도: **20%**
+* JAVA Robot API를 사용하여 마우스 및 키보드를 제어
+* JAVA Sound API을 사용하여 PC의 소리를 캡쳐
+* Android Media API를 사용하여 PC의 소리를 재생합니다
+* DB액션 처리: JDBC
+* 개발 Tool : Eclipse, SVN, Apache Tomcat v8.0, VisualSVN Server Manager
+<br>
 
-
+### 시연 이미지
 
 ScreenShot
 --------------------------
