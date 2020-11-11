@@ -35,11 +35,9 @@
 <br>
 
 ![자바어플](https://user-images.githubusercontent.com/58925978/87854461-27770e00-c94d-11ea-869b-82f38f0eb09d.png)<br><br>
-<p>
-  <font size=3><b>
-PC에서 프로그램을 실행 한 후 해당 컴퓨터의 IP주소를 확인한 후, 스마트폰 앱의 메인화면에 있는 빈칸에 IP를 입력하여 접속<br><br>
-</b></font>
-</p><hr><br>
+
+* PC에서 프로그램을 실행 한 후 해당 컴퓨터의 IP주소를 확인한 후, 스마트폰 앱의 메인화면에 있는 빈칸에 IP를 입력하여 접속<br><br>
+<hr><br>
 
 ![안드로이드메인](https://user-images.githubusercontent.com/58925978/87854468-365dc080-c94d-11ea-9061-7f78684d92c3.png)<br><br>
 <p>
