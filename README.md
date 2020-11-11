@@ -33,7 +33,6 @@ PC에서 프로그램을 실행 한 후 해당 컴퓨터의 IP주소를 확인�
   <font size=3><b>
 올바르게 연결되면 스마트 폰 중앙의 빈 공간을 터치하면 PC의 마우스가 움직입니다.<br>
 기본 모드는 마우스 모드이며 상단의 PPT 버튼을 클릭하면 PPT 모드로 변경됩니다.<br><br>
-If connected properly, the mouse on the PC moves when you touch the empty space in the center on the smartphone.<br>
 </b></font>
 </p><hr><br>
 
