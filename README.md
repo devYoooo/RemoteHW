@@ -57,6 +57,7 @@ PPT 모드의 L / R 버튼은 키보드의 왼쪽 / 오른쪽 화살표 키입�
 </b></font>
 </p><hr><br>
 
+![안드로이드메인](https://user-images.githubusercontent.com/58925978/87854468-365dc080-c94d-11ea-9061-7f78684d92c3.png)<br><br>
 <p>
   <font size=3><b>
 마지막으로 상단의 스피커 아이콘을 누르면 스마트 폰으로 PC의 소리를들을 수 있습니다.<br><br>
