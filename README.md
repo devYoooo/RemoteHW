@@ -26,8 +26,6 @@
 ### 개발기간
 * March/2019 - July/2019
 
-<br>
-
 ### 개발환경
 * OS : Windows10 / Language : Java / Compiler : PC-Eclipse, Phone-Android Studio <br><br>
 
