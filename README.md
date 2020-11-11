@@ -14,7 +14,6 @@
 * Android Media API를 사용하여 PC의 소리를 재생합니다
 * DB액션 처리: JDBC
 * 개발 Tool : Eclipse, SVN, Apache Tomcat v8.0, VisualSVN Server Manager
-<br>
 
 ### 팀
 <ul>
@@ -23,8 +22,6 @@
   <li>유의상</li>
   <li>박인환</li>
 </ul>
-<br>
-
 
 ### 개발기간
 * March/2019 - July/2019
