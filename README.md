@@ -13,7 +13,7 @@
 * JAVA Sound API을 사용하여 PC의 소리를 캡쳐
 * Android Media API를 사용하여 PC의 소리를 재생합니다
 * DB액션 처리: JDBC
-* 개발 Tool : Eclipse, SVN, Apache Tomcat v8.0, VisualSVN Server Manager
+* 개발 Tool : Eclipse, GitHub, Apache Tomcat v8.0
 
 ### 팀
 <ul>
