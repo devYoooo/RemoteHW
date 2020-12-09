@@ -1,40 +1,38 @@
 <h2 align="center">RemoteH/W</h2>
 <p align="center">
-  🙍‍♂️  <strong> Desktop Remote Control <strong>   🙍‍♀️
+  🙍‍♂️YuhanUniversity Graduated Project in 2019🙍‍♀️
 </p>
-<br>
+<br><br>
 
-### 개요
-* 하나의 모바일 기기에서 컴퓨터에 원격 터치패드(마우스), 리모콘(PPT발표용), 무선스피커 기능까지 다양한 기능을 이용할 수 있도록 개발
-  
-### 주요 기술
+
+### Description
+* 하나의 모바일 기기에서 컴퓨터에 원격 터치패드(마우스), 리모콘(PPT발표용), 무선스피커 기능까지 다양한 기능을 이용할 수 있는 프로그램입니다.
+
+### Maintainer
+* 최우중 :crown:(팀장)
+* 노원호
+* 유의상
+* 박인환
+
+### Contribution
+* 프로젝트 기획, 안드로이드 XML 구현, 자바 Swing 구현
+
+### Period
+* 2019/03/10 - 2019/09/30
+
+### Stack
 * JAVA Robot API를 사용하여 마우스 및 키보드를 제어
 * JAVA Sound API을 사용하여 PC의 소리를 캡쳐
 * Android Media API를 사용하여 PC의 소리를 재생합니다
-* DB액션 처리: JDBC
+* DB액션 처리: Oracle(Jdbc)
 * 개발 Tool : Eclipse, GitHub, Apache Tomcat v8.0
 
-### 팀
-<ul>
-  <li>최우중:crown:</li>
-  <li>노원호</li>
-  <li>유의상</li>
-  <li>박인환</li>
-</ul>
-
-### 참여도
-* **15%**
-* 안드로이드 XML 구현, 자바 Swing 구현
-
-### 개발기간
-* March/2019 - July/2019
-
-### 개발환경
+### Enviroment
 * OS : Windows10 / Language : Java / Compiler : PC-Eclipse, Phone-Android Studio <br><br>
 
-<hr>
+***
 
-### 시연 이미지
+### Image
 <br>
 
 ![자바어플](https://user-images.githubusercontent.com/58925978/87854461-27770e00-c94d-11ea-869b-82f38f0eb09d.png)<br><br>
@@ -66,7 +64,3 @@
 
 * 마지막으로 상단의 스피커 아이콘을 누르면 스마트 폰으로 PC의 소리를들을 수 있습니다.<br><br>
 <hr><br><br>
-
-
-
-
